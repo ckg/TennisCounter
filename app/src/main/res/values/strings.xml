@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tennis Counter</string>
+    <string name="points_15">+15 POINTS</string>
+    <string name="points_10">+10 POINTS</string>
+    <string name="points_1">Tie Break</string>
+    <string name="player_A">Player A</string>
+    <string name="player_B">Player B</string>
+</resources>
